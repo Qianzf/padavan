@@ -1,6 +1,10 @@
-下面是forked 的原版说明，我对install.sh做了小小修改。主
-1.主要是保留官网的编译目录结构，主要文件在/opt/rt-n56u，所以DESTDIR=/opt/rt-n56u
-2.sudo sh install.sh ， 复制适配、汉化、个性修改。
+# 我对install.sh做了小小修改。
+
+ 1.主要是保留官网的编译目录结构，主要文件在/opt/rt-n56u，所以DESTDIR=/opt/rt-n56u
+
+ 2.sudo sh install.sh ， 复制适配、汉化、个性修改。
+
+ 下面是forked 的原版说明
 # padavan
 padavan汉化文件
 
